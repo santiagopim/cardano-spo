@@ -1,1 +1,6 @@
-d759fd5256ba06d615f8dfcb74b68600119653159c5a5c0081996bf4575f8b16
+{
+"name": "spiplit",
+"description": "My spiplit description",
+"ticker": "SPIM",
+"homepage": "https://debian.org"
+}
